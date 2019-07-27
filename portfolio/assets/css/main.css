@@ -849,6 +849,7 @@ input, select, textarea {
 
 				.row > .col-5-large {
 					width: 41.66667%;
+					padding: 25px;
 				}
 
 				.row > .off-5-large {
